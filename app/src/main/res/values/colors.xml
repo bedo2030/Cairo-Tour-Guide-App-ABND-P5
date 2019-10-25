@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4081</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#e7398d</color>
+    <color name="listViewBackground">#b3b3b3</color>
+    <color name="listItemTextViewBackground">#964e4e4e</color>
+</resources>

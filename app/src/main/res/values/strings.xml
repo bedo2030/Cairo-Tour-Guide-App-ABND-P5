@@ -1,0 +1,52 @@
+<resources>
+    <!-- Navigation Drawer item's title -->
+    <string name="app_name">Cairo Tour Guide</string>
+    <string name="nav_hotels_title">Hotels</string>
+    <string name="nav_restaurants_title">Restaurants</string>
+    <string name="nav_shopping_title">Shopping</string>
+    <string name="nav_monuments">Moneuments</string>
+
+    <!-- Hotels Title, Description and Address -->
+    <string name="hotel_golden_title">Golden Hotel Cairo</string>
+    <string name="hotel_steigenberger_title">Steigenberger Hotel El Tahrir Cairo</string>
+    <string name="hotel_cairo_city_center_title">Cairo City Center Hotel</string>
+    <string name="hotel_golden_description">Located in Cairo, this hotel is just a few minutes’ walk from the Egyptian Museum, the Nile, and the Saddat metro station. It has a restaurant and a 24-hour front desk. Free Wi-Fi is available.</string>
+    <string name="hotel_golden_address">13 Talaat Harb St, Cairo</string>
+    <string name="hotel_city_center_description">Don’t judge it by the dingy, claustrophobic lobby – rooms here are fine, with high ceilings, shiny tile floors, new bathrooms and good-quality mattresses. The sitting area has a beautiful terrace looking straight down Sharia Mahmoud Bassiouni.</string>
+    <string name="hotel_city_center_address">14 Champlion Street, Downtwon, Cairo</string>
+    <string name="hotel_steigenberger_description">Situated in Cairo in the Cairo Governate Region, 200 metres from The Egyptian Museum, Steigenberger El Tahrir features an outdoor pool and sauna. Guests can enjoy the on-site restaurant. Free WiFi is featured throughout the property.</string>
+    <string name="hotel_steigenberger_address">Kasr El Nile, Cairo</string>
+
+    <!-- Restaurants Title, Description and Address  -->
+    <string name="restaurant_opasta_title">O\'s Pasta</string>
+    <string name="restaurant_opasta_description">The kitchen is right in front of you so you can watch the chefs at work, and service is friendly and efficient. The menu is nearly all pasta, with a few salads thrown in for good measure and with a rather delectable sweet-potato soup as a starter.</string>
+    <string name="restaurant_opasta_address">159 Sharia 26th of July Zamalek, Cairo</string>
+    <string name="restaurant_zooba_title">Zööba</string>
+    <string name="restaurant_zooba_description">Egyptian street food gets a modern makeover. Zööba has taken the country\'s classic cheap eats and given them contemporary twists. </string>
+    <string name="restaurant_zooba_address">26th of July st, Zamalek, Cairo</string>
+    <string name="restaurant_maison_title">Maison Thomas</string>
+    <string name="restaurant_maison_description">A little slice of the Continent, with loads of brass and mirrors, and friendly waiters in long white aprons, Maison Thomas has been serving up Cairo\'s best thin-crust pizza for decades.</string>
+    <string name="restaurant_maison_address">157 Sharia 26th of July, Zamalek, Cairo</string>
+
+    <!--Moneuments Title, Description and Address -->
+    <string name="monument_pyramids_title">Pyramids of Giza</string>
+    <string name="monument_pyramids_description">The last remaining wonder of the ancient world; for nearly 4000 years, the extraordinary shape, impeccable geometry and sheer bulk of the Giza Pyramids have invited the obvious questions: \'How were we built, and why?\'. </string>
+    <string name="monument_pyramids_address">Giza Pyramids, Cairo</string>
+    <string name="monument_egyptian_museum_title">Egyptian Museum</string>
+    <string name="monument_egyptian_museum_description">One of the world\’s most important collections of ancient artifacts, the Egyptian Museum takes pride of place in Downtown Cairo, on the north side of Midan Tahrir.To walk around the museum is to embark on an adventure through time.</string>
+    <string name="monument_egyptian_museum_address">Midan Tahrir, Downtown, Cairo</string>
+    <string name="monument_azhar_mosque_title">Al Azhar Mosque</string>
+    <string name="monument_azhar_mosque_description">Founded in AD 970 as the centrepiece of the newly created Fatimid city. Al Azhar is one of Cairo\’s earlier mosques. The building is a harmonious blend of architectural styles, the result of numerous enlargements over more than 1000 years. </string>
+    <string name="monument_azhar_mosque_address">Sharia Al Azhar Islamic Cairo, Cairo</string>
+
+    <!-- Shopping Places Title, Description and Address -->
+    <string name="shopping_khan_khalili_title">Khan Al Khalili</string>
+    <string name="shopping_khan_khalili_description">The skinny lanes of Khan Al Khalili are basically a medieval-style mall. This agglomeration of shops – many arranged around small courtyards – stocks everything from soap powder to semiprecious stones, not to mention tacky toy camels and alabaster pyramids.</string>
+    <string name="shopping_khan_khalili_address">off Sharia Al Azhar and Al Gamaliyya Islamic Cairo, Cairo</string>
+    <string name="shopping_katamya_mall_title">Downtown Katameya Mall</string>
+    <string name="shopping_katamya_mall_description">Bringing shopping, events, and hangouts together in the heart of New Cairo, Downtown Katameya is not just a mall, it is the ultimate hub for New Caireans. It is family friendly, and easily accessible with entrances on every side.</string>
+    <string name="shopping_katamya_mall_address">Area A-City Center, Road 90, Fifth Settlement, New Cairo</string>
+    <string name="shopping_arkan_mall_title">Arkan Mall</string>
+    <string name="shopping_arkan_mall_description">Arkan Mall Shopping and Retail in October 6, Al Jizah, Egypt</string>
+    <string name="shopping_arkan_mall_address">In front of 2000 Zayed City, 6th of October City, Cairo</string>
+</resources>
